@@ -1,6 +1,7 @@
 Hello!
-I'm currenly a Junior in Highschool
-Learning Java, experience in Lua
+I'm currenly a Junior in Highschool ||
+Currently learning: Java ||
+Have experience in: Lua ||
 
 
 <!---
